@@ -14,7 +14,7 @@ To build a clean and responsive landing page using **HTML and CSS**, focusing on
 - CSS3
 
 ## 🚀 Live Demo
-(Add your GitHub Pages link here)
+https://github.com/Gishalin-Rushita/OIBSIP_level1_task1
 
 ## 📂 Project Structure
 - index.html
